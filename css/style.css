@@ -988,7 +988,7 @@ article {
 }
 
 .work-single-image {
-  margin-bottom: 35px;
+  margin-bottom: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -996,8 +996,7 @@ article {
 
 .work-single-content {
   position: relative;
-  margin-bottom: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 5px;
   padding: 30px 25px;
   background: #eae9ec;
   color: #5c5c5c;
@@ -1009,11 +1008,9 @@ article {
   overflow-y: scroll;
 }
 
-
-
 .work-single-sidebar {
   background: #eae9ec;
-  margin: 70px 0 50px;
+  margin: 50px 0 50px;
   position: -webkit-sticky;
   position: sticky;
   top: 100px;
